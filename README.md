@@ -1,1 +1,3 @@
-# chatgpt-prompts
+### chatgpt-prompts
+
+精选prompts

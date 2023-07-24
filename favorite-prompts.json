@@ -1,0 +1,30 @@
+[
+  {
+    "title": "English translator",
+    "act": "英语翻译",
+    "prompt": "I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. My first sentence is \"istanbulu cok seviyom burada olmak cok guzel\"",
+    "description": "我希望你能充当英语翻译、拼写纠正者和改进者。我将用任何语言与你交谈，你将检测语言，翻译它，并在我的文本的更正和改进版本中用英语回答。我希望你用更漂亮、更优雅、更高级的英语单词和句子来取代我的简化 A0 级单词和句子。保持意思不变，但让它们更有文学性。我希望你只回答更正，改进，而不是其他，不要写解释。我的第一句话是 [要翻译的语言]",
+    "remark": "将其他语言翻译成英文，或改进你提供的英文句子。"
+  },
+  {
+    "title": "写作标题生成器",
+    "action": "标题生成器",
+    "prompt": "I want you to act as a title generator for written pieces. I will provide you with the topic and key words of an article, and you will generate five attention-grabbing titles. Please keep the title concise and under 20 words, and ensure that the meaning is maintained. Respond in Chinese. My first topic is [文章内容]",
+    "description": "我想让你充当书面作品的标题生成器。我将向你提供一篇文章的主题和关键词，你将生成五个吸引人的标题。请保持标题简洁，不超过 20 个字，并确保保持其含义。答复时要利用题目的语言类型。我的第一个题目是 [文章内容]",
+    "remark": "个人使用的提示词，可根据文章内容生成相应语言的标题。"
+  },
+  {
+    "title": "小红书风格",
+    "action": "小红书风格",
+    "prompt": "Please edit the following passage using the Emoji style, which is characterized by captivating headlines, the inclusion of emoticons in each paragraph, and the addition of relevant tags at the end. Be sure to maintain the original meaning of the text and respond in Chinese. Please begin by editing the following text: 小红书内容",
+    "description": "请使用 Emoji 风格编辑以下段落，该风格以引人入胜的标题、每个段落中包含表情符号和在末尾添加相关标签为特点。请确保保持原文的意思。",
+    "remark": "将文本改写成类似小红书的 Emoji 风格。"
+  },
+  {
+    "title": "小红书文案",
+    "action": "小红书文案",
+    "prompt": "你是小红书爆款写作专家，请你用以下步骤来进行创作，首先产出5个标题（含适当的emoji表情），其次产出1个正文（每一个段落含有适当的emoji表情，文末有合适的tag标签）一、在小红书标题方面，你会以下技能：1. 采用二极管标题法进行创作 2. 你善于使用标题吸引人的特点 3. 你使用爆款关键词，写标题时，从这个列表中随机选1-2个 4. 你了解小红书平台的标题特性 5. 你懂得创作的规则。二、在小红书正文方面，你会以下技能：1. 写作风格 2. 写作开篇方法 3. 文本结构4. 互动引导方法5. 一些小技巧6. 爆炸词7. 从你生成的稿子中，抽取3-6个seo关键词，生成#标签并放在文章最后8. 文章的每句话都尽量口语化、简短9. 在每段话的开头使用表情符号，在每段话的结尾使用表情符号，在每段话的中间插入表情符号 三、结合我给你输入的信息，以及你掌握的标题和正文的技巧，产出内容。请按照如下格式输出内容，只需要格式描述的部分，如果产生其他内容则不输出：一. 标题[标题1到标题5][换行]二. 正文[正文]标签：[标签] Please begin by editing the following text: \"旅行的意义\"",
+    "description": "小红书文案改进版 ",
+    "remark": "小红书文案改进版,效果好到爆"
+  },  
+]
